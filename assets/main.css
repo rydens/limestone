@@ -57,8 +57,25 @@ ul.topnav h1 {
 	background-color: rgb(149, 152, 152);
 	border-radius: 15px 50px;
 	padding-left: 10px;
+	padding-bottom: 50px;
 }
 
 .bodytitle {
 	text-decoration: underline;
 }
+
+.footer {
+	position: relative;
+	width: 100%;
+}
+
+.bottomfoot {
+	position: absolute;
+	bottom: 5px;
+	width: 100%;
+	text-align: center;
+}
+
+
+
+
