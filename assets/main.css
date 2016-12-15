@@ -1,0 +1,64 @@
+.header {
+	font-family: 'Gloria Hallelujah', cursive;
+	background-color: rgb(149, 152, 152);
+	border-radius: 25px;
+}
+
+.link {
+	text-decoration: none;
+	color: blue;
+}
+
+.link:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgb(149, 152, 152);
+	border-radius: 25px;
+}
+
+ul.topnav li {
+	float:left;
+}
+
+ul.topnav li a {
+	display: inline-block;
+	text-align: center;
+	padding: 14px 16px;
+	transition: 0.3s;
+}
+
+ul.topnav h1 {
+	padding-top: 20px;
+	font-size: 36px;
+}
+
+.spacer {
+	color: rgb(149, 152, 152);
+}
+
+.author {
+	padding-top: 90px;
+	padding-left: 220px;
+	color: green;
+}
+
+.here {
+	text-decoration: underline;
+}
+
+.main {
+	background-color: rgb(149, 152, 152);
+	border-radius: 15px 50px;
+	padding-left: 10px;
+}
+
+.bodytitle {
+	text-decoration: underline;
+}
