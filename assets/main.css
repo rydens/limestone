@@ -44,8 +44,6 @@ ul.topnav h1 {
 }
 
 .author {
-	padding-top: 90px;
-	padding-left: 220px;
 	color: green;
 }
 
@@ -57,7 +55,7 @@ ul.topnav h1 {
 	background-color: rgb(149, 152, 152);
 	border-radius: 15px 50px;
 	padding-left: 10px;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 .bodytitle {
@@ -76,6 +74,22 @@ ul.topnav h1 {
 	text-align: center;
 }
 
+img.tile {
+	height: 200px;
+	width: 200px;
+	padding-right: 50px;
+	float: right;
+}
+
+img.ptable {
+	height: 261px;
+	width: 400px;
+	padding-right: 50px;
+}
+
+.aboutimg {
+	float: right;
+}
 
 
 
